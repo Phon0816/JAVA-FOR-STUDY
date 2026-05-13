@@ -1,4 +1,4 @@
-package com.hiu.java.buoi5;
+package com.hiu.java.LyThuyet.Buoi6.buoi5;
 import java.util.Scanner;
 
 

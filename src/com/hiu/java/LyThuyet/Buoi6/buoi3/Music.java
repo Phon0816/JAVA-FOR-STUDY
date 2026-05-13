@@ -1,4 +1,4 @@
-package com.hiu.java.buoi3; // Bro nhớ đổi tên package cho khớp nếu cần nha
+package com.hiu.java.LyThuyet.Buoi6.buoi3; // Bro nhớ đổi tên package cho khớp nếu cần nha
 
 public class Music {
     public static void main(String[] args) {

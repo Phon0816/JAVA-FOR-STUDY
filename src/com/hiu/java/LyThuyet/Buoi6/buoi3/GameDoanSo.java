@@ -1,4 +1,4 @@
-package com.hiu.java.buoi3;
+package com.hiu.java.LyThuyet.Buoi6.buoi3;
 
 import java.util.Random;
 import java.util.Scanner;

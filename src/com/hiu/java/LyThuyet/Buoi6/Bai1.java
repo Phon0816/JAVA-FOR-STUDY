@@ -1,4 +1,4 @@
-package com.hiu.java.Buoi6;
+package com.hiu.java.LyThuyet.Buoi6;
 
 import java.util.ArrayList;
 
